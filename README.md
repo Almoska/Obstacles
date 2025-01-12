@@ -10,6 +10,17 @@
   </ol>
 </list></p>
 
+<h2>How to play?</h2>
+<p>
+  <list>
+    <ol>
+      <li>After opening the application, the User is given two options:Play and Exit.</li>
+      <li>If the Play option is chosen, then the game starts.</li>
+      <li>The User is able to move the character using their finger and avoid the <i>obstacles</i>.</li> 
+      <li>The more high score the User reaches, the better character they are able to choose.</li>
+    </ol>
+    </list>
+</p>
 <h2>Terms of use</h2>
 <p>By using this software, you agree to the following terms:<list><ol>
 <li>You may <b>NOT</b> claim this software as your own.</li>
